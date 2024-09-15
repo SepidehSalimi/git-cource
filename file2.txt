@@ -1,3 +1,10 @@
 git 
 github
 git status
+git status
+git status
+git status
+git status
+git status
+git status
+git status
